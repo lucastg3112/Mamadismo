@@ -1,0 +1,36 @@
+header{
+	text-align: center;
+	background: black;
+	color: white;
+	font-size: 70px;
+	text-shadow: 3px 0px 0px black;
+
+}
+
+
+main{
+
+	text-align: center;
+	background: #AFF5C8 ;
+	height: 700px;
+}
+span{
+	text-align: center;
+	font-size: 65px;
+
+
+}
+
+h3{
+
+	font-size: 68px;
+	text-shadow: 3px 2px 0px white;s
+}
+
+h1{
+	color: red;
+	font-size: 56px;
+	text-shadow: 3px 2px 0px orange;
+	
+
+}
